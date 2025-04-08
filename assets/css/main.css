@@ -3338,3 +3338,11 @@ input, select, textarea {
 	.pred{
 		color: blue;
 	}
+	.imagetrend{
+		width: 650px;
+		height: 150px;
+	}
+	.imagetrend1{
+		width: 650px;
+		height: 700px;
+	}
